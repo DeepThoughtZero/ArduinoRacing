@@ -19,5 +19,5 @@ More pictures, which show the wiring in more detail, can be found in the [Hardwa
 The source code can be found in the [Code](https://github.com/DeepThoughtZero/ArduinoRacing/tree/master/src) subfolder.
 
 # Control Theory
-![PicKit](https://github.com/DeepThoughtZero/ArduinoRacing/master/ControlTheory/ControlTheory.png)
-Enlightning resources can be found in the [ControlTheory](https://github.com/DeepThoughtZero/ArduinoRacing/tree/master/ControlTheory) subfolder.
+![PicTheory](https://github.com/DeepThoughtZero/ArduinoRacing/blob/master/ControlTheory/ControlTheory.png)
+Enlightning resources can be found in the [Control Theory](https://github.com/DeepThoughtZero/ArduinoRacing/tree/master/ControlTheory) subfolder.
