@@ -1,5 +1,6 @@
 # Arduino Racing
-This is a great repository about a 2 Wheel Drive Arduino Robot.
+This is a repository about a great 2 Wheel Drive Arduino Robot under 20€.
+Have fun!
 
 # Overview
 Watch it driving around on YouTube: https://www.youtube.com/watch?v=6vIRhG7kFnE
